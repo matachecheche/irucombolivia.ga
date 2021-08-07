@@ -1,13 +1,17 @@
 body {
-    margin: 0px;
-    background-color: aliceblue;
+    margin: 20px;
+    background-color: white;
     font-family: 'Nerko One', cursive;
 }
+
+
 nav{
  display:inline-block;
  width:100%;
 }
-
+nav img{
+ margin:auto;
+}
 
 
 
@@ -21,8 +25,8 @@ button {
 
 
 .page-nav {
-    background-color: rgba(70, 141, 207, 0.17);
-    border: 1px solid black;
+    
+    
     position: relative;
 }
 
