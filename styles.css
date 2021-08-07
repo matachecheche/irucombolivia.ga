@@ -1,5 +1,5 @@
 body {
-    margin: 20px;
+    margin: 0;
     background-color: grey;
     font-family: 'Nerko One', cursive;
 }
@@ -13,6 +13,7 @@ nav{
  display:inline-block;
  width:100%;
  background-color:ghostwhite;
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
 }
 nav img{
  margin:auto;
